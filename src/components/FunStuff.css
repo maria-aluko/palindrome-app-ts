@@ -1,0 +1,15 @@
+.container {
+  flex: 1;
+  margin: 20px;
+  padding: 20px 40px;
+  background-color: #162C42;
+  border-radius: 8px;
+  height: 350px;
+  width: 400px;
+  line-height: 1.6;
+}
+
+.container > h3 {
+  text-align: center;
+}
+
